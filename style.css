@@ -31,7 +31,7 @@ body{
     align-items: center;
     gap: 0.5rem;
 }
-.quoteID{
+.quoteID, .ID{
     font-size: 0.8rem;
     color:hsl(150, 100%, 66%);
     font-weight: 600;
